@@ -1,0 +1,108 @@
+@font-face {
+    font-family: FontAwesome;
+    src: url(fontawesome-webfont.woff);
+    font-weight: 400;
+    font-style: normal
+}
+
+.vc-fa {
+    display: inline-block;
+    font: 14px/1 FontAwesome;
+    font-size: inherit;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+
+.vc-fab {
+    font-family: 'Font Awesome 5 Brands';
+    font-weight: 400;
+}
+
+.vc-far {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 400;
+}
+
+.vc-fa,
+.vc-fas {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+}
+
+
+@font-face {
+    font-family: 'Font Awesome 5 Brands';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("fa-brands-400.woff");
+}
+
+
+@font-face {
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("fa-regular-400.woff");
+}
+
+
+
+@font-face {
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 900;
+    font-display: block;
+    src: url("fa-solid-900.woff");
+}
+
+.vc-fa-fw {
+    width: 1.28571429em;
+    text-align: center
+}
+
+.vc-fa-times:before {
+    content: "\f00d"
+}
+
+.vc-fa-times-circle:before {
+    content: "\f057"
+}
+
+.vc-fa-exclamation-triangle:before {
+    content: "\f071"
+}
+
+.vc-fa-facebook-square:before {
+    content: "\f082"
+}
+
+.vc-fa-linkedin-square:before {
+    content: "\f08c"
+}
+
+.vc-fa-twitter:before {
+    content: "\f099"
+}
+
+.vc-fa-facebook:before {
+    content: "\f09a"
+}
+
+.vc-fa-bars:before {
+    content: "\f0c9"
+}
+
+.vc-fa-google-plus:before {
+    content: "\f0d5"
+}
+
+.vc-fa-linkedin:before {
+    content: "\f0e1"
+}
+
+.vc-fa-youtube-square:before {
+    content: "\f431"
+}
