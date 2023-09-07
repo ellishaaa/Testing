@@ -3961,11 +3961,11 @@ body #page-container a.tech-btn:hover{
 
 @media (max-width: 980px){
   .humburger{
-    top: 2rem;
+    top: 1.75rem;
   }
 
   .navbar .navbar-brand img.logo {
-    height: 50px;
+    height: 40px;
     margin: .5em 0em 0em 0em;
 }
 
